@@ -1,0 +1,17 @@
+{
+  "name": "wc-admin-example-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "lint:js": "wp-scripts lint-js assets/src"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^7.1.0",
+    "@wordpress/scripts": "^12.1.1"
+  }
+}
