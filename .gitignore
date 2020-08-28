@@ -1,0 +1,16 @@
+/node_modules
+/assets/build
+
+# Directories/files that may appear in your environment
+.DS_Store
+Thumbs.db
+wp-cli.local.yml
+*.sql
+*.tar.gz
+*.tgz
+*.zip
+.idea
+.vscode/
+
+# Composer
+/vendor/
